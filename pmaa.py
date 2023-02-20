@@ -115,7 +115,7 @@ class ResParameter:
         else:  # Should not reach here
             self.value = None
 
-        print(self.type, dataSize, pos - basePos)
+        # print(self.type, dataSize, pos - basePos)
         assert pos - basePos == dataSize
         return dataSize
 

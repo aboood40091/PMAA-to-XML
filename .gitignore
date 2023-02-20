@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Test files
+*.xml
+*.aglenv
+*.baglenv
+*.agllmap
+*.bagllmap
+*.agldof
+*.bagldof
+*.aglfila
+*.baglfila
